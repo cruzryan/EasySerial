@@ -16,7 +16,7 @@ class EasySerial
 		//Serial
 
 		serialBegin(int); //Starts a serial in [int] port
-		void serialReader(); //Reads incoming bytes from serial
+		int serialReader(); //Reads incoming bytes from serial
 };
 
 #endif
