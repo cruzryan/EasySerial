@@ -1,0 +1,3 @@
+EasyArduino		KEYWORD1
+serialBegin		KEYWORD2
+serialReader	KEYWORD2
